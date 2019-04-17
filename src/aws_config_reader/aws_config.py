@@ -62,7 +62,6 @@ class AwsCredentials(AwsConfiguration):
         return self.get_property('aws_secret_access_key')
 
 
-
 class AwsConfigurationReader(object):
 
     def __init__(self):
@@ -80,11 +79,6 @@ class AwsConfigurationReader(object):
 if __name__ == "__main__":
 
     reader = AwsConfigurationReader()
-    print reader.config
-    print reader.config.region
-    print reader.config.output
-    print repr(reader.config)
-    print reader.credentials
-    print reader.credentials.aws_access_key_id
-    print reader.credentials.aws_secret_access_key
-    print repr(reader.credentials)
+    print(reader.config)
+    print(reader.credentials)
+
