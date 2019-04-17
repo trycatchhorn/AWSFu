@@ -76,9 +76,3 @@ class AwsConfigurationReader(object):
     def credentials(self):
         return self._credentials
 
-if __name__ == "__main__":
-
-    reader = AwsConfigurationReader()
-    print(reader.config)
-    print(reader.credentials)
-
