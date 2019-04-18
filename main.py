@@ -1,4 +1,4 @@
-from aws_lib.aws_config_reader.aws_config import AwsConfigurationReader
+from aws_lib.aws_config_reader.aws_config_reader import AwsConfigurationReader
 
 if __name__ == "__main__":
     
