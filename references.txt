@@ -1,0 +1,16 @@
+https://python.gotrained.com/aws-ec2-management-python-boto3/
+https://gabrielrojas.nyc/2017/02/01/how-to-add-a-second-interface-to-specific-ec2-instances-using-python3/
+https://gemfury.com/hemamaps/python:boto
+https://medium.com/@jonah.jones/aws-introduction-into-python-sdk-boto3-6187f6d5ec64
+https://blog.ipswitch.com/how-to-create-and-configure-an-aws-vpc-with-python
+https://blog.shikisoft.com/accessing-aws-resources-using-python-scripts/
+https://stackabuse.com/automating-aws-ec2-management-with-python-and-boto3/
+https://medium.com/@kulasangar91/create-an-emr-cluster-and-submit-a-job-using-boto3-c34134ef68a0
+https://s3.us-east-2.amazonaws.com/a-book/ecs.html
+https://stackoverflow.com/questions/49363403/aws-boto-start-instance-deploy-docker-image-run-and-terminate
+https://stackoverflow.com/questions/44696264/is-it-possible-to-directly-call-docker-run-from-aws-lambda
+https://github.com/f-istvan/boto3-scripts/blob/master/teardown.py
+https://github.com/f-istvan/boto3-scripts
+https://aws.amazon.com/blogs/compute/creating-a-simple-fetch-and-run-aws-batch-job/
+https://trackit.io/deploying-docker-compose-files-on-aws-ecs/
+https://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up/
