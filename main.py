@@ -12,7 +12,7 @@ def test_configuration_reader():
 def test_key_pair():
     print('Test key pair')
     aws_key_pair = AwsKeyPair()
-    aws_key_pair.create_key_pair(key_name='MyTestKey')
+    aws_key_pair.create_key_pair(key_name='MyTestKeyFoo')
 
 if __name__ == "__main__":
 
